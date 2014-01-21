@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+	<comment>jedis_properties</comment>
+	<entry key="redis.server.host">127.0.0.1</entry>
+	<entry key="redis.server.port">6379</entry>
+	<entry key="redis.server.maxActive">100</entry>
+	<entry key="redis.server.maxIdle">20</entry>
+	<entry key="redis.server.maxWait">1000</entry>
+</properties>

@@ -11,7 +11,7 @@ import java.util.Properties;
 /**
  * @author Elliot
  */
-public class JedisConnection {
+public class JedisPoolHandler {
 	private static Properties properties;
 	private static JedisPool pool = null;
 	private static JedisPoolConfig config = new JedisPoolConfig();

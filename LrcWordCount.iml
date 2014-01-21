@@ -10,6 +10,7 @@
     <orderEntry type="library" name="commons-codec-1.6" level="project" />
     <orderEntry type="library" name="commons-pool-1.6" level="project" />
     <orderEntry type="library" name="httpclient-4.3" level="project" />
+    <orderEntry type="library" name="IKAnalyzer2012_u6" level="project" />
   </component>
 </module>
 
